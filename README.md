@@ -4,20 +4,21 @@
 
 ![version: 02.07.2023](https://img.shields.io/badge/version-02.07.2023-informational)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@mfthaan)&nbsp;
-[![GitHub: fachridantm](https://img.shields.io/github/followers/miftakun?label=follow&style=social)](https://github.com/miftakun)&nbsp;
+[![GitHub: miftakun](https://img.shields.io/github/followers/miftakun?label=follow&style=social)](https://github.com/miftakun)&nbsp;
 
 #### Welcome to my [Codepark]! 🏡
 
 ## 🛠 Tech Stack
+  ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
   [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
   [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/miftakun/)&nbsp;
   [![GitLab](https://img.shields.io/badge/-GitLab-%23fc6d26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/mfthaan/)&nbsp;
   ![Flutter](https://img.shields.io/badge/Flutter%20Dev-blue?style=flat&logo=flutter)&nbsp;
   [![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/mfthaan)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
   ![Dart](https://img.shields.io/badge/Dart%20-blue?style=flat&logo=dart)&nbsp;
-  ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
+  
 
 <!-- ## 📊 Top Repositories
 [![Dicoding-AndroidPemula](https://github-readme-stats.vercel.app/api/pin/?username=miftakun&repo=Dicoding-AndroidPemula&show_icons=true&theme=radical)](https://github.com/miftakun/Dicoding-AndroidPemula) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=miftakun&repo=Smart-Villager&show_icons=true&theme=radical)](https://github.com/miftakun/Smart-Villager) -->
