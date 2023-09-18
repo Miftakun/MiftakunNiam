@@ -13,7 +13,7 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/miftakun/)&nbsp;
   [![GitLab](https://img.shields.io/badge/-GitLab-%23fc6d26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/mfthaan/)&nbsp;
   ![Flutter](https://img.shields.io/badge/flutter%20dev-blue?style=flat&logo=flutter)&nbsp;
-  [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&dev&logoColor=white)](https://developers.google.com/profile/u/mfthaan)&nbsp;
+  [![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/mfthaan)&nbsp;
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
   ![Dart](https://img.shields.io/badge/dart%20-blue?style=flat&logo=dart)&nbsp;
