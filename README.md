@@ -46,3 +46,5 @@
 [![Linktree: miftakun_niam](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/miftakun_niam)](https://linktr.ee/miftakun_niam)&nbsp;
 
 ---
+
+<img align="center" src="https://github.com/miftakun/miftakun/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
