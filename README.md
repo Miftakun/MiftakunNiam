@@ -7,7 +7,7 @@
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@mfthaan)&nbsp;
 [![GitHub: miftakun](https://img.shields.io/github/followers/miftakun?label=follow&style=social)](https://github.com/miftakun)&nbsp;
 
-#### Welcome to my [Codepark]! 🏡
+#### Welcome to my [Codepark](https://github.com/Miftakun)! 🏡
 
 ## 🛠 Tech Stack
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
