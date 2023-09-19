@@ -44,7 +44,6 @@
 [![LinkedIn: Miftakun Niam](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miftakun-niam/)](https://www.linkedin.com/in/miftakun-niam/)&nbsp;
 [![Instagram: Follow mfthaan_](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mfthaan_)&nbsp;
 [![Linktree: miftakun_niam](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/miftakun_niam)](https://linktr.ee/miftakun_niam)&nbsp;
-
 ---
 
 <img align="center" src="https://github.com/Miftakun/Miftakun/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake">
