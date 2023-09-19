@@ -47,4 +47,4 @@
 
 ---
 
-<img align="center" src="https://github.com/miftakun/miftakun/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+<img align="center" src="https://github.com/Miftakun/Miftakun/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake">
