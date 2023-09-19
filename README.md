@@ -26,7 +26,7 @@
 
 ## 📈 Github Stats
   
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miftakun&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="fachridantm's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miftakun&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="miftakun's Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miftakun&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="miftakun's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miftakun&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="miftakun's Most Used Language">
 | ------------- | ------------- |  
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=miftakun&hide_border=true&theme=radical">
