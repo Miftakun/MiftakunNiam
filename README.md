@@ -32,7 +32,7 @@
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/miftakun&hide_border=true&theme=radical">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mfthaan&layout=compact&hide_border=true&theme=radical"](https://wakatime.com/@mfthaan)
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=mfthaan&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@mfthaan)
 | ------------- |
 
 ---
