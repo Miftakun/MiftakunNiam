@@ -3,7 +3,7 @@
 #### Welcome to my [Codepark](https://github.com/Miftakun)! 🏡
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Miftakun+Niam;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;UI/UX+Design+and+Mobile+Development+Enthusiast+;and+Member+Google+Developer+Student+Clubs;Thank+you+for+visiting+😇)](https://miftakun.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+You+can+call+me+Mifta;Enjoy+and+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;UI/UX+Design+and+Mobile+Development+Enthusiast+;and+Member+Google+Developer+Student+Clubs;Thank+you+for+visiting+😇)](https://miftakun.github.io)
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
