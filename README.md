@@ -1,5 +1,7 @@
 # Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://miftakun.github.io/)
 
+#### Welcome to my [Codepark](https://github.com/Miftakun)! 🏡
+
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Miftakun+Niam;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;UI/UX+Design+and+Mobile+Development+Enthusiast+;and+Google+Developer+Student+community+member)](https://miftakun.github.io)
 
@@ -9,9 +11,6 @@
 ![](https://komarev.com/ghpvc/?username=miftakun)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@mfthaan)&nbsp;
 [![GitHub: miftakun](https://img.shields.io/github/followers/miftakun?label=follow&style=social)](https://github.com/miftakun)&nbsp;
-
-
-#### Welcome to my [Codepark](https://github.com/Miftakun)! 🏡
 
 ## 🛠 Tech Stack
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
