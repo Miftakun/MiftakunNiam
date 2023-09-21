@@ -9,7 +9,7 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.https://developer.android.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Android-logo-notext.svg" align="right" height="48" width="48" ></a>
+<a href="https://www.https://developer.android.com/"><img src="https://developer.android.com/images/brand/Android_Robot.svg" align="right" height="48" width="48" ></a>
 
 #### Welcome to my [Codepark](https://github.com/Miftakun)! 🏡
 
