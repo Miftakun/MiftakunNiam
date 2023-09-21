@@ -1,8 +1,3 @@
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.https://developer.android.com/"><img src="https://developer.android.com/images/brand/Android_Robot.svg" align="right" height="48" width="48" >
-<a href="https://pub.dev/packages/flutter_svg/"><img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" align="right" height="48" width="48" ></a>
-
 # Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://miftakun.github.io/)
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://miftakun.github.io)
