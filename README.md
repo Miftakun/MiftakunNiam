@@ -1,5 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 # Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://miftakun.github.io/)
 
 #### Welcome to my [Codepark](https://github.com/Miftakun)! 🏡
@@ -11,6 +9,8 @@
 ![](https://komarev.com/ghpvc/?username=miftakun)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@mfthaan)&nbsp;
 [![GitHub: miftakun](https://img.shields.io/github/followers/miftakun?label=follow&style=social)](https://github.com/miftakun)&nbsp;
+
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 ## 🛠 Tech Stack
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
