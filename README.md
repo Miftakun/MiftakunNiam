@@ -1,11 +1,11 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 # Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://miftakun.github.io/)
 
 #### Welcome to my [Codepark](https://github.com/Miftakun)! 🏡
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&v=true&width=1000&lines=Hi+there+👋,+You+can+call+me+Mifta;Enjoy+and+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;UI/UX+Design+and+Mobile+Development+Enthusiast+;and+Member+Google+Developer+Student+Clubs;Thank+you+for+visiting+😇)](https://miftakun.github.io)
-
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 ![version: 02.07.2023](https://img.shields.io/badge/version-02.07.2023-informational)&nbsp;
 ![](https://komarev.com/ghpvc/?username=miftakun)&nbsp;
